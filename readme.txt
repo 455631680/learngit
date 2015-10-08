@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 git tracks changes one times
 why dont need me?
 Creating a new branch is quick.
+master modify
