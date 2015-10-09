@@ -5,4 +5,5 @@ git tracks changes one times
 why dont need me?
 Creating a new branch is quick.
 Creating a new feture branch and simple
+this is a so big bug
 
